@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.aghstrategies.softcreditacknowledge" type="module">
+  <file>softcreditacknowledge</file>
+  <name>Soft Credit Acknowledge</name>
+  <description>Adds another profile for soft credits</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Tyrell Cook</author>
+    <email>tyrell@aghstrategies.com</email>
+  </maintainer>
+  <releaseDate>2014-12-09</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.5</ver>
+  </compatibility>
+  <comments>Adds acknowledge profile to soft credit section of contribution page, creates additional soft credit on the resulting contribution</comments>
+  <civix>
+    <namespace>CRM/Softcreditacknowledge</namespace>
+  </civix>
+</extension>
